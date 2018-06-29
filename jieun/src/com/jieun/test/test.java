@@ -7,6 +7,7 @@ public class test {
 		System.out.println("Hello Jieun");
 		System.out.println("hungry");
 		System.out.println("full");
+		System.out.println("hi");
 	}
 	
 }
